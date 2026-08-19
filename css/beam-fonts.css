@@ -1,0 +1,19 @@
+
+@font-face {
+  font-family: 'Alte Haas Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://myrnemusic.github.io/beam-assets/fonts/AlteHaasGroteskRegular.woff2') format('woff2'),
+       url('https://myrnemusic.github.io/beam-assets/fonts/AlteHaasGroteskRegular.woff') format('woff');
+}
+ 
+@font-face {
+  font-family: 'Alte Haas Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://myrnemusic.github.io/beam-assets/fonts/AlteHaasGroteskBold.woff2') format('woff2'),
+       url('https://myrnemusic.github.io/beam-assets/fonts/AlteHaasGroteskBold.woff') format('woff');
+}
+ 
